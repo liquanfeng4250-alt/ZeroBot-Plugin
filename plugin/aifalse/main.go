@@ -40,7 +40,7 @@ import (
 )
 
 const (
-	backgroundURL = "https://pic.re/image"
+	backgroundURL = "https://api.furry.ist/furry-img/"
 	referer       = "https://weibo.com/"
 )
 
