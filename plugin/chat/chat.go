@@ -32,6 +32,9 @@ func init() { // 插件主体
 				[]string{
 					nickname + "在此，有何贵干~",
 					"(っ●ω●)っ在~",
+					"owo",
+					"干啥",
+					"?",
 					"这里是" + nickname + "(っ●ω●)っ",
 					nickname + "不在呢~",
 				}[rand.Intn(4)],
